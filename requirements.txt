@@ -1,0 +1,13 @@
+certifi==2017.7.27.1
+chardet==3.0.4
+Django==1.11.5
+django-admin-rangefilter==0.3.0
+django-filter==1.0.4
+djangorestframework==3.6.4
+httpie==0.9.9
+idna==2.6
+Markdown==2.6.9
+Pygments==2.2.0
+pytz==2017.2
+requests==2.18.4
+urllib3==1.22
